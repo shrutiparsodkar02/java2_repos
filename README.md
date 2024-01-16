@@ -1,7 +1,7 @@
 # java2_repos
-it is my second repository(public repos)
-in these i will add code for calculator 
-//take two number input,give choices to perform operations
+it is my second repository(public repos)<br>
+in these i will add code for calculator <br>
+//take two number input,give choices to perform operations<br>
 import java.util.Scanner;
 import java.util.*;
 import java.io.*;
